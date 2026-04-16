@@ -18,5 +18,5 @@ Backlog
 - [x] ITER 2 -> On roll 20 fois 0, le score est de 0
 - [x] ITER 3 -> On roll 20 fois 1, le score est de 20
 - [x] ITER 4 -> On roll 10 fois 1, 10 fois 2, le score est de 30
-- [ ] ITER 5 -> On roll 7, 3 puis 4 et 17 fois 0, le score est de 18
+- [x] ITER 5 -> On roll 7, 3 puis 4 et 17 fois 0, le score est de 18
 - [ ] ITER 6 -> On roll 10, 3 puis 4 et 16 fois 0, le score est de 24
