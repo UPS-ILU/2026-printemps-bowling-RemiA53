@@ -36,4 +36,16 @@ public class GameTest {
 		int score = game.score();
 		assertEquals(20, score);
 	}
+	
+	@Test
+	void Iter4Test() {
+		for (int i = 0; i < 10; i++) {
+			game.roll(1);
+		}
+		for (int i = 0; i < 10; i++) {
+			game.roll(2);
+		}
+		int score = game.score();
+		assertEquals(30, score);
+	}
 }
