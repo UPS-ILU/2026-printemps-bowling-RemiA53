@@ -2,10 +2,11 @@ package bowling;
 
 public class Game {
 	
-	public Game() {
+	void roll(int nbQuilles) {
+		
 	}
-
-	public int score(String[] score) {
+	
+	public int score() {
 		return 0;
 	}
 }

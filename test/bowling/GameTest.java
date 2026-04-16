@@ -15,8 +15,16 @@ public class GameTest {
 	
 	@Test
 	void Iter1Test() {
-		String[] score = {};
-		int scoreFin = game.score(score);
-		assertEquals(0, scoreFin);
+		int score = game.score();
+		assertEquals(0, score);
+	}
+	
+	@Test
+	void Iter2Test() {
+		for (int i = 0; i < 20; i++) {
+			game.roll(0);
+		}
+		int score = game.score();
+		assertEquals(0, score);
 	}
 }
