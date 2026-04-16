@@ -12,3 +12,5 @@
 - [ ] B12
 - [ ] B21
 - [ ] B22
+
+[x] ITER 1 -> Sans partie, le score est de 0
