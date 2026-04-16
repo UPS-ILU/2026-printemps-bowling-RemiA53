@@ -14,7 +14,7 @@
 - [ ] B22
 
 Backlog
-[x] ITER 1 -> Sans partie, le score est de 0
-[ ] ITER 2 -> On roll 20 fois 0, le score est de 0
-[ ] ITER 3 -> On roll 20 fois 1, le score est de 20
-[ ] ITER 4 -> On roll 10 fois 1, 10 fois 2, le score est de 30
+- [x] ITER 1 -> Sans partie, le score est de 0
+- [x] ITER 2 -> On roll 20 fois 0, le score est de 0
+- [x] ITER 3 -> On roll 20 fois 1, le score est de 20
+- [ ] ITER 4 -> On roll 10 fois 1, 10 fois 2, le score est de 30
